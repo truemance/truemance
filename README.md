@@ -3,4 +3,4 @@
  </div> 
 
 
- <img src="https://www.fightersgeneration.com/nx3/char/persona4arena/s/yosuke-stance.gif" width=300> 
+ <img src="https://www.fightersgeneration.com/nz4/char/ken-amada-pet-koromaru.gif" width=300> 
